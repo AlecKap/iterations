@@ -1,0 +1,14 @@
+favorite_nums = [8,77,16,12,7,2,4,10]
+
+# favorite_nums.each do |num|
+#     if num > 30
+#         puts num
+#     end
+# end
+
+
+favorite_nums.each do |num|
+    if num < 60
+        puts num
+    end
+end
